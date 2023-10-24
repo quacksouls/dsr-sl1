@@ -10,3 +10,4 @@
 - [Reinforced Club+10](doc/reinforced-club+10.md)
 - [Fire Reinforced Club+7](doc/fire-reinforced-club+7.md)
 - [Lord Vessel](doc/lord-vessel.md)
+- [Blacksmith Giant Hammer](doc/blacksmith-giant-hammer.md)
