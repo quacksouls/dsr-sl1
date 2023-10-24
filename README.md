@@ -1,24 +1,19 @@
-# Project name
+# SL1 run of Dark Souls: Remastered
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-Insert introduction
+Tips, strategies, and routes for your first SL1 run of
+[Dark Souls: Remastered](https://store.steampowered.com/app/570940/DARK_SOULS_REMASTERED/).
+This guide complements the videos here:
 
-<!-- ====================================================================== -->
-
-## Development
-
-We customized various themes:
-
-<!-- prettier-ignore -->
-Insert list of customized themes
+https://www.youtube.com/playlist?list=PL2OiiNZU6nWOJzZz8weqnME7M7XARKZY7
 
 <!-- ====================================================================== -->
 
 ## Acknowledgement
 
 <!-- prettier-ignore -->
-- [HonKit](https://github.com/honkit/honkit) is used to build the tutorial.
+- [HonKit](https://github.com/honkit/honkit) is used to build the guide.
 
 <!-- ====================================================================== -->
 
