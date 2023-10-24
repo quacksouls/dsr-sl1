@@ -8,3 +8,4 @@
 - [Ring of Favor and Protection](doc/fap-ring.md)
 - [Reinforced Club+6](doc/reinforced-club+6.md)
 - [Reinforced Club+10](doc/reinforced-club+10.md)
+- [Fire Reinforced Club+7](doc/fire-reinforced-club+7.md)
