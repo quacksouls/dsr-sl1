@@ -4,3 +4,4 @@
 - [Preface](README.md)
 - [Introduction](doc/introduction.md)
 - [Northern Undead Asylum](doc/northern-undead-asylum.md)
+- [Reinforced Club+5](doc/reinforced-club+5.md)
