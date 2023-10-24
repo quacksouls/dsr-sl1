@@ -11,3 +11,4 @@
 - [Fire Reinforced Club+7](doc/fire-reinforced-club+7.md)
 - [Lord Vessel](doc/lord-vessel.md)
 - [Blacksmith Giant Hammer](doc/blacksmith-giant-hammer.md)
+- [Sunlight Maggot](doc/sunlight-maggot.md)
