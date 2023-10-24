@@ -12,3 +12,4 @@
 - [Lord Vessel](doc/lord-vessel.md)
 - [Blacksmith Giant Hammer](doc/blacksmith-giant-hammer.md)
 - [Sunlight Maggot](doc/sunlight-maggot.md)
+- [Chaos Flame Ember](doc/chaos-flame-ember.md)
