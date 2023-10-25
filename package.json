@@ -4,7 +4,7 @@
   "description": "SL1 run of Dark Souls: Remastered",
   "main": "index.js",
   "scripts": {
-    "clean": "prettier --write README.md doc",
+    "clean": "prettier --write README.md doc/*.md",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
