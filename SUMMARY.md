@@ -20,3 +20,4 @@
 - [Large Magic Ember](doc/large-magic-ember.md)
 - [Finish the DLC](doc/finish-dlc.md)
 - [Gwyn, Lord of Cinder](doc/gwyn.md)
+- [Conclusion](doc/conclusion.md)
