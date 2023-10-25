@@ -15,3 +15,4 @@
 - [Chaos Flame Ember](doc/chaos-flame-ember.md)
 - [Very Large Ember](doc/very-large-ember.md)
 - [Titanite Slab from Sieglinde](doc/titanite-slab.md)
+- [Large Divine Ember](doc/large-divine-ember.md)
