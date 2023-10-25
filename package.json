@@ -1,6 +1,6 @@
 {
   "name": "dsr-sl1",
-  "version": "1.1",
+  "version": "1.1.1",
   "description": "SL1 run of Dark Souls: Remastered",
   "main": "index.js",
   "scripts": {
