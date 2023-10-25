@@ -17,3 +17,4 @@
 - [Titanite Slab from Sieglinde](doc/titanite-slab.md)
 - [Large Divine Ember](doc/large-divine-ember.md)
 - [Dark Ember](doc/dark-ember.md)
+- [Large Magic Ember](doc/large-magic-ember.md)
