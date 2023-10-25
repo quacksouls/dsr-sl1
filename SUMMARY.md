@@ -18,3 +18,4 @@
 - [Large Divine Ember](doc/large-divine-ember.md)
 - [Dark Ember](doc/dark-ember.md)
 - [Large Magic Ember](doc/large-magic-ember.md)
+- [Finish the DLC](doc/finish-dlc.md)
