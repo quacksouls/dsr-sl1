@@ -36,7 +36,7 @@ Defeating Ceaseless Discharge should remove the lava that blocks the path to
 Demon Ruins proper. Make your way down to lower Demon Ruins and rest at the
 bonfire that spawns after you defeated the Burrowing Rockworm. No need to worry
 about Kirk invading you _en route_ to the bonfire because you do not yet have
-the Lord Vessel. Descend the long flight of stairs and turn left to walk along a
+the Lordvessel. Descend the long flight of stairs and turn left to walk along a
 cliff edge. Follow the path until you reach a wooden chest that contains the
 Large Flame Ember. You will give this ember to Vamos who is located in the
 Catacombs.

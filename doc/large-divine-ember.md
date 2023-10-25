@@ -28,9 +28,9 @@ Stamina points per second.
 
 {% youtube id="6TRDrgJuBy4", title="70. Location of Large Divine Ember, Dark Souls: Remastered" %}{% endyoutube %}
 
-You should have the Lord Vessel before entering this area. It is easier to warp
+You should have the Lordvessel before entering this area. It is easier to warp
 into and out of this area than it is to navigate without the warping ability of
-the Lord Vessel. Furthermore, you should have collected the Sunlight Maggot.
+the Lordvessel. Furthermore, you should have collected the Sunlight Maggot.
 Equip the head piece to allow you maximum visibility while navigating the area.
 
 Rest at the Tomb of the Giants bonfire. Climb up the ladder and exhaust Patches'

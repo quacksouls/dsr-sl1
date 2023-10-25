@@ -1,8 +1,8 @@
-# Lord Vessel
+# Lordvessel
 
-The Lord Vessel allows you to teleport between most bonfires, saving you a lot
-of time sprinting between bonfires. The item is also used to unlock various
-endgame areas, including the final boss of the game.
+The Lordvessel allows you to teleport between most bonfires, saving you a lot of
+time sprinting between bonfires. The item is also used to unlock various endgame
+areas, including the final boss of the game.
 
 ## Sen's Fortress
 
@@ -123,7 +123,7 @@ The area in front of the boss arena has Royal Sentinel x 2 who drop Titanite
 Chunks. Before you have access to unflooded New Londo Ruins, these two enemies
 provide the best source of Titanite Chunks. Summon Solaire to help you farm the
 upgrade material. Titanite Chunks can also be farmed in New Londo Ruins, but
-only after you have the Lord Vessel and released the flood gate. Find the Giant
+only after you have the Lordvessel and released the flood gate. Find the Giant
 Blacksmith and use his services to upgrade a Reinforced Club along the lightning
 path to +4.
 
@@ -143,5 +143,5 @@ if you are close enough to him you can dash towards him and he would jump over
 your character and the attack would miss. Use the opportunity to get in an R2.
 
 Defeat Ornstein and Smough, ride one of the elevators up, and enter Gwynevere's
-room. Exhaust her dialogue and receive the Lord Vessel. You are now able to warp
+room. Exhaust her dialogue and receive the Lordvessel. You are now able to warp
 between most bonfires.

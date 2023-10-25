@@ -38,7 +38,7 @@ Chunk.
 Sooner or later you would need access to New Londo Ruins to fight the Four
 Kings. You require two items to unlock the boss fight:
 
--   Lord Vessel. You should already have this item after defeating Ornstein and
+-   Lordvessel. You should already have this item after defeating Ornstein and
     Smough, and exhausting the dialogue of Gwynevere.
 -   Covenant of Artorias. This ring is dropped by Sif, a boss at Darkroot
     Garden.
